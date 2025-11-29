@@ -55,7 +55,7 @@ const ProjectMap: React.FC = () => {
                         const description = i18n.language === 'es' ? project.descriptionEs : project.description;
 
                         return (
-                            <div
+                            <article
                                 key={project.id}
                                 className="cursor-pointer group"
                                 onClick={() => setSelectedProject(project)}
@@ -106,7 +106,7 @@ const ProjectMap: React.FC = () => {
                                         )}
                                     </div>
                                 </Card>
-                            </div>
+                            </article>
                         );
                     })}
                 </div>

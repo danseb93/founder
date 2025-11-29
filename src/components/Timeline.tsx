@@ -28,7 +28,7 @@ const Timeline: React.FC = () => {
 
                                 {/* Content */}
                                 <div className="w-full md:w-1/2 px-4">
-                                    <div
+                                    <article
                                         className="cursor-pointer group"
                                         onClick={() => setSelectedExp(exp)}
                                     >
@@ -58,7 +58,7 @@ const Timeline: React.FC = () => {
                                                 )}
                                             </div>
                                         </Card>
-                                    </div>
+                                    </article>
                                 </div>
 
                                 {/* Empty space for the other side */}
