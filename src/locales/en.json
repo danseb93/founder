@@ -1,0 +1,54 @@
+{
+    "hero": {
+        "greeting": "HELLO WORLD, I AM",
+        "title": "DANIEL RINCÓN",
+        "subtitle": "Full Stack Developer",
+        "subtitleSuffix": "& Architect",
+        "description": "Transforming complex problems into elegant, scalable solutions. From electronics to high-level architecture, I build the digital future.",
+        "downloadCV": "Download CV",
+        "contactMe": "Contact Me"
+    },
+    "timeline": {
+        "title": "Experience Timeline",
+        "more": "more"
+    },
+    "techStack": {
+        "title": "Tech Arsenal",
+        "frontend": "Frontend",
+        "backend": "Backend",
+        "database": "Database",
+        "devops": "DevOps",
+        "soft": "Soft Skills"
+    },
+    "projects": {
+        "title": "Project Universe",
+        "subtitle": "Explore the territories I've conquered across different industries.",
+        "all": "All",
+        "viewProject": "View Project"
+    },
+    "nahomi": {
+        "title": "My Greatest Motivation",
+        "quote": "I long to see her smile every day, which is why my efforts are focused on being able to offer her a pleasant, peaceful, and happy life. Every step I take in my professional career is with the intention of building a solid future for us.",
+        "dedication": "For Nahomi"
+    },
+    "contact": {
+        "title": "Get In Touch",
+        "subtitle": "Let's Connect",
+        "description": "Feel free to reach out for collaborations or just a friendly hello!",
+        "name": "Name",
+        "email": "Email",
+        "message": "Message",
+        "send": "Send Message",
+        "sending": "Sending...",
+        "successTitle": "Message Sent!",
+        "successMessage": "Thank you for reaching out!",
+        "successSubtext": "I'll get back to you as soon as possible.",
+        "footer": "All rights reserved.",
+        "footerBuilt": "Built with React, Vite & Passion."
+    },
+    "modal": {
+        "description": "Description",
+        "achievements": "Key Achievements & Responsibilities",
+        "techStack": "Tech Stack"
+    }
+}

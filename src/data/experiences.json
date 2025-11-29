@@ -1,0 +1,171 @@
+[
+    {
+        "id": "tecon",
+        "role": "FullStack Developer",
+        "roleEs": "Desarrollador FullStack",
+        "company": "Tecon",
+        "period": "2024 - 2025",
+        "periodEs": "2024 - 2025",
+        "description": "Designed and implemented a critical integration system for Puerto Antioquia.",
+        "descriptionEs": "Diseñé e implementé un sistema de integración crítico para Puerto Antioquia.",
+        "technologies": [
+            "NestJS",
+            "Vue.js",
+            "MongoDB",
+            "Docker",
+            "SOAP/REST",
+            "Azure Container Instances",
+            "GitHub Actions",
+            "Doppler"
+        ],
+        "details": [
+            "Designed and implemented a critical integration system for Puerto Antioquia (Puerto Nacional de Colombia).",
+            "Implemented multi-protocol communication (FTP, SOAP, RESTful APIs) to connect national entities with the port's central infrastructure trought NestJS.",
+            "Developed a responsive frontend in Vue.js with advanced visualization dashboards and detailed event logging.",
+            "Designed a MongoDB database schema optimized for high-volume maritime operations.",
+            "Implemented a clean logging system to ensure traceability and debugging efficiency."
+        ],
+        "detailsEs": [
+            "Diseñé e implementé un sistema de integración crítico para Puerto Antioquia (Puerto Nacional de Colombia).",
+            "Implementé comunicación multi-protocolo (FTP, SOAP, RESTful APIs) para conectar entidades nacionales con la infraestructura central del puerto via NestJS.",
+            "Desarrollé un frontend responsivo en Vue.js con dashboards de visualización avanzados y registro de eventos detallado.",
+            "Diseñé un esquema de base de datos MongoDB optimizado para operaciones marítimas de alto volumen.",
+            "Implementé un sistema de logs limpio para asegurar la trazabilidad y eficiencia en debugging."
+        ],
+        "color": "from-blue-500 to-cyan-500",
+        "industry": "Logistics"
+    },
+    {
+        "id": "techtivo",
+        "role": "FullStack Developer",
+        "roleEs": "Desarrollador FullStack",
+        "company": "Techtivo (with MunayTech)",
+        "companyEs": "Techtivo (con MunayTech)",
+        "period": "2023 - 2024",
+        "description": "Designed and maintained interactive web applications and optimized lending platforms.",
+        "descriptionEs": "Diseñé y mantuve aplicaciones web interactivas y optimicé plataformas de préstamos.",
+        "technologies": [
+            "React",
+            "Redux",
+            "NestJS",
+            "WordPress",
+            "Qualtrics",
+            "Kubernetes",
+            "AWS S3",
+            "AWS EKS",
+            "Nginx"
+        ],
+        "details": [
+            "Designed and maintained interactive web applications using React JS with Redux state management.",
+            "Implemented RESTful API communication protocols via NestJS middleware.",
+            "Optimized lendingpoint.com pages, creating configurable views from JSON for React components.",
+            "Implemented Qualtrics solutions for data collection and analysis.",
+            "Managed WordPress platforms ensuring fluid content management and optimal system performance."
+        ],
+        "detailsEs": [
+            "Diseñé y mantuve aplicaciones web interactivas usando React JS con manejo de estado Redux.",
+            "Implementé protocolos de comunicación API RESTful vía middleware NestJS",
+            "Optimicé páginas de lendingpoint.com, creando vistas configurables desde JSON para componentes React.",
+            "Implementé soluciones Qualtrics para recolección y análisis de datos.",
+            "Gestioné plataformas WordPress asegurando gestión de contenido fluida y rendimiento óptimo del sistema."
+        ],
+        "color": "from-purple-500 to-pink-500",
+        "industry": "Fintech"
+    },
+    {
+        "id": "creardigital",
+        "role": "FullStack Developer",
+        "roleEs": "Desarrollador FullStack",
+        "company": "MunayTech",
+        "period": "2020 - 2024",
+        "description": "Developed scalable backend solutions and interactive web applications.",
+        "descriptionEs": "Desarrollé soluciones backend escalables y aplicaciones web interactivas.",
+        "technologies": [
+            "Angular",
+            "NodeJS",
+            "PHP",
+            "Firebase",
+            "Redux",
+            "Laravel",
+            "Bitbucket",
+            "Qualtrics"
+        ],
+        "details": [
+            "Developed and maintained interactive web applications using Angular with Redux state management.",
+            "Implemented scalable backend solutions with NodeJS and RESTful APIs.",
+            "Integrated PHP Laravel middleware and Google Firebase for robust data administration.",
+            "Automated deployment pipelines using BitBucket and Docker for multi-environment setups (Frontend, Backend, DB)."
+        ],
+        "detailsEs": [
+            "Desarrollé y mantuve aplicaciones web interactivas usando Angular con manejo de estado Redux.",
+            "Implementé soluciones backend escalables con NodeJS y APIs RESTful.",
+            "Integré middleware PHP Laravel y Google Firebase para administración robusta de datos.",
+            "Automaticé pipelines de despliegue usando BitBucket y Docker para configuraciones multi-ambiente (Frontend, Backend, DB)."
+        ],
+        "color": "from-orange-500 to-red-500",
+        "industry": "Software"
+    },
+        {
+        "id": "lineadatascan",
+        "role": "Mobile Developer",
+        "roleEs": "Desarrollador Mobile",
+        "company": "LineaDatascan",
+        "period": "2020 - 2022",
+        "description": "Developed an Android app for retail chain sales integration.",
+        "descriptionEs": "Desarrollé una app Android para integración de ventas en cadenas de retail.",
+        "technologies": [
+            "Android Studio",
+            "Java",
+            "Cegid",
+            "Zebra Printers",
+            ".NET",
+            "C#",
+            "SOAP",
+            "Bluetooth"
+        ],
+        "details": [
+            "Created an Android app to facilitate sales for retail chains like Lilipink and Tennis directly from advisors.",
+            "Integrated with the Cegid store platform and dataphones for payment processing using .NET.",
+            "Implemented printing functionality with portable Zebra printers.",
+            "This project marked a significant achievement in connecting physical retail operations with digital systems."
+        ],
+        "detailsEs": [
+            "Creé una app Android para facilitar ventas para cadenas de retail como Lilipink y Tennis directamente desde asesores.",
+            "Integré con la plataforma de tienda Cegid y datafonos para procesamiento de pagos via .NET.",
+            "Implementé funcionalidad de impresión con impresoras Zebra portátiles.",
+            "Este proyecto marcó un logro significativo en conectar operaciones de retail físico con sistemas digitales."
+        ],
+        "color": "from-yellow-500 to-amber-500",
+        "industry": "Retail"
+    },
+    {
+        "id": "eter",
+        "role": "FullStack Developer",
+        "roleEs": "Desarrollador FullStack",
+        "company": "Eter Software",
+        "period": "2019 - 2021",
+        "description": "Enterprise systems engineering for fleet maintenance.",
+        "descriptionEs": "Ingeniería de sistemas empresariales para mantenimiento de flotas.",
+        "technologies": [
+            "Angular",
+            "NodeJS",
+            "Spring Boot",
+            "MySQL",
+            "Firebase"
+        ],
+        "details": [
+            "Engineering of enterprise fleet maintenance systems using Angular, NodeJS, and Spring Boot.",
+            "Designed and administered MySQL and Firebase databases.",
+            "Optimized performance for truck and heavy machinery monitoring applications.",
+            "Transitioned from UI programming to Backend and DevOps, gaining a complete system architecture perspective."
+        ],
+        "detailsEs": [
+            "Ingeniería de sistemas empresariales de mantenimiento de flotas usando Angular, NodeJS y Spring Boot.",
+            "Diseñé y administré bases de datos MySQL y Firebase.",
+            "Optimicé el rendimiento para aplicaciones de monitoreo de camiones y maquinaria pesada.",
+            "Transicioné de programación UI a Backend y DevOps, obteniendo una perspectiva completa de arquitectura de sistemas."
+        ],
+        "color": "from-green-500 to-emerald-500",
+        "industry": "Logistics"
+    }
+]

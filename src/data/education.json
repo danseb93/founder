@@ -1,0 +1,22 @@
+[
+    {
+        "degree": "Electronic Engineer",
+        "institution": "Universidad ECCI - Bogotá DC",
+        "year": "2020"
+    },
+    {
+        "degree": "DevOps Integral Docker, Kubernetes, Jenkins",
+        "institution": "Udemy",
+        "year": "2025"
+    },
+    {
+        "degree": "React from Zero",
+        "institution": "Udemy",
+        "year": "2023"
+    },
+    {
+        "degree": "Mision TIC 2021 - Multiplatform Development",
+        "institution": "Universidad Del Norte",
+        "year": "2021"
+    }
+]

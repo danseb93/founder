@@ -1,0 +1,177 @@
+{
+    "frontend": [
+        {
+            "name": "React",
+            "detail": "Vite, React Native",
+            "years": 4
+        },
+        {
+            "name": "Angular",
+            "years": 4
+        },
+        {
+            "name": "Vue.js",
+            "years": 2
+        },
+        {
+            "name": "Redux",
+            "years": 7
+        },
+        {
+            "name": "TypeScript",
+            "years": 7
+        },
+        {
+            "name": "Tailwind/CSS",
+            "years": 4
+        },
+        {
+            "name": "Angular Material",
+            "years": 4
+        }
+    ],
+    "backend": [
+        {
+            "name": "Node.js",
+            "years": 4
+        },
+        {
+            "name": "NestJS",
+            "years": 3
+        },
+        {
+            "name": "Java",
+            "years": 2
+        },
+        {
+            "name": "Spring Boot",
+            "years": 2
+        },
+        {
+            "name": ".NET",
+            "years": 2
+        },
+        {
+            "name": "PHP",
+            "years": 2
+        },
+        {
+            "name": "Laravel",
+            "years": 2
+        }
+    ],
+    "cms": [
+        {
+            "name": "WordPress",
+            "detail": "Advanced development & customization",
+            "detailEs": "Desarrollo y personalización avanzada",
+            "years": 4
+        }
+    ],
+    "database": [
+        {
+            "name": "MongoDB",
+            "years": 4
+        },
+        {
+            "name": "MySQL",
+            "years": 4
+        },
+        {
+            "name": "SQL Server",
+            "years": 4
+        },
+        {
+            "name": "Firebase",
+            "years": 2
+        }
+    ],
+    "apis": [
+        {
+            "name": "REST",
+            "years": 7
+        },
+        {
+            "name": "SOAP",
+            "years": 4
+        },
+        {
+            "name": "GraphQL",
+            "years": 1
+        }
+    ],
+    "devops": [
+        {
+            "name": "Docker",
+            "years": 5
+        },
+        {
+            "name": "Kubernetes",
+            "years": 2
+        },
+        {
+            "name": "GitLab Runners",
+            "years": 2
+        },
+        {
+            "name": "GitHub Actions",
+            "years": 1
+        },
+        {
+            "name": "Bitbucket Pipelines",
+            "years": 2
+        },
+        {
+            "name": "AWS S3",
+            "years": 2
+        },
+        {
+            "name": "AWS EC2",
+            "years": 2
+        },
+        {
+            "name": "Azure Container Registry",
+            "years": 1
+        },
+        {
+            "name": "Nginx",
+            "years": 3
+        }
+    ],
+    "versionControl": [
+        {
+            "name": "Git",
+            "years": 7
+        },
+        {
+            "name": "GitLab",
+            "years": 3
+        },
+        {
+            "name": "GitHub",
+            "years": 4
+        },
+        {
+            "name": "Bitbucket",
+            "years": 2
+        }
+    ],
+    "soft": [
+        {
+            "name": "Leadership",
+            "nameEs": "Liderazgo"
+        },
+        {
+            "name": "Proactivity",
+            "nameEs": "Proactividad"
+        },
+        {
+            "name": "Adaptability",
+            "nameEs": "Adaptabilidad"
+        },
+        {
+            "name": "Architecture Design",
+            "nameEs": "Diseño de Arquitectura"
+        }
+    ]
+}

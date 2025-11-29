@@ -1,0 +1,248 @@
+[
+  {
+    "id": "middleware-puerto-antioquia",
+    "name": "Middleware Puerto Antioquia",
+    "company": "Tecon",
+    "role": "Full Stack Developer",
+    "description": "Integration middleware connecting government platforms (DIAN, MinTransporte, VUCE) with Puerto Antioquia's main platform. Implemented 200+ RESTful APIs with Swagger documentation, authentication system, notifications, cron jobs, detailed logging, and SOAP/REST/FTP communications.",
+    "descriptionEs": "Middleware de integración que conecta plataformas gubernamentales (DIAN, MinTransporte, VUCE) con la plataforma principal del Puerto Antioquia. Implementé más de 200 APIs RESTful con documentación Swagger, sistema de autenticación, notificaciones, cron jobs, logs detallados y comunicaciones SOAP/REST/FTP.",
+    "technologies": [
+      "Vue.js",
+      "NestJS",
+      "MongoDB",
+      "Azure Container Instances",
+      "Doppler",
+      "GitHub Actions"
+    ],
+    "url": null,
+    "industry": "Logistics",
+    "achievements": [
+      "Created robust and clear logging system, allowing deep understanding of all project APIs and their detailed functionality",
+      "Implemented FTP server and managed stored information for vehicle entry control with different cargo characteristics"
+    ],
+    "achievementsEs": [
+      "Creación de sistema de logs robusto y claro, permitiendo conocer todas las APIs del proyecto y su funcionamiento detallado",
+      "Implementación de servidor FTP y gestión de la información almacenada para el control de los vehículos que ingresan al puerto con las diferentes características de sus cargas"
+    ]
+  },
+  {
+    "id": "mediya",
+    "name": "MediYa",
+    "company": "Tecon",
+    "role": "DevOps Engineer",
+    "description": "Deployment across development, testing, and production environments of a medical appointments platform using GitLab Runners. Configured automated deployment with GitLab Pipelines and Docker containers (Astro and PostgreSQL).",
+    "descriptionEs": "Despliegue en entornos de desarrollo, pruebas y producción de una plataforma de citas médicas utilizando GitLab Runners. Configuré el despliegue automatizado con GitLab Pipelines y contenedores Docker (Astro y PostgreSQL).",
+    "technologies": [
+      "PostgreSQL",
+      "GitLab Runners",
+      "GitLab Pipelines",
+      "Docker"
+    ],
+    "url": null,
+    "industry": "Health",
+    "achievements": [
+      "Optimized Docker files for faster, more efficient and secure container creation, enabling automatic deployment based on the updated branch"
+    ],
+    "achievementsEs": [
+      "Optimización de los archivos de Docker para la creación de contenedores más rápidos, eficientes y seguros, permitiendo un despliegue automático dependiendo de la rama que se actualice"
+    ]
+  },
+  {
+    "id": "tcfcu-cms",
+    "name": "TCFCU Website",
+    "company": "Techtivo",
+    "role": "Frontend Developer",
+    "description": "Management of WordPress PHP CMS platform as landing page for TCFCU, a banking company. Configured templates, pages, images, forms, office locations with maps, etc.",
+    "descriptionEs": "Administración de plataforma CMS creada en WordPress PHP como landing page para TCFCU, una empresa bancaria. Configuré templates, páginas, imágenes, formularios, ubicación de oficinas con mapas, etc.",
+    "technologies": [
+      "WordPress",
+      "PHP",
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "url": "https://www.tcfcu.com/",
+    "industry": "Fintech",
+    "achievements": [
+      "Created office location system with maps using plugins, displaying schedules, contacts, etc.",
+      "Customized login plugins for personalized messages and user permission configuration"
+    ],
+    "achievementsEs": [
+      "Mediante el uso de plugins creé un sistema de ubicación de oficinas con mapas, que mostraba los horarios, contactos, etc.",
+      "Personalicé plugins de login para poder tener mensajes personalizados y configurar los permisos de los usuarios"
+    ]
+  },
+  {
+    "id": "collab-tcfcu",
+    "name": "Collab by TCFCU",
+    "company": "Techtivo",
+    "role": "Full Stack Developer",
+    "description": "Development of collaboration platform (React UI, NestJS Backend, PostgreSQL) for TCFCU and its clients. Configured dev and test environments on AWS using Kubernetes, with automated deployment via GitLab Pipelines and Docker.",
+    "descriptionEs": "Desarrollo de plataforma de colaboración (UI React, Backend NestJS, Base de datos PostgreSQL) para TCFCU con sus clientes. Configuré entornos de desarrollo y pruebas en AWS mediante Kubernetes, con despliegue automático vía GitLab Pipelines y Docker.",
+    "technologies": [
+      "React",
+      "NestJS",
+      "PostgreSQL",
+      "Kubernetes",
+      "GitLab Pipelines",
+      "Docker",
+      "AWS S3",
+      "AWS EKS"
+    ],
+    "url": "https://www.collab.org/",
+    "industry": "Fintech",
+    "achievements": [
+      "Implemented projects view, ideas system, login and registration, flow with views to share ideas",
+      "The client's happiness when presenting the platform and saying they hope ideas shared there can solve problems to improve the world"
+    ],
+    "achievementsEs": [
+      "Implementación de la vista de proyectos, sistema de ideas, login y registro, flujo con vistas para compartir ideas",
+      "Un logro fue la felicidad al ver al cliente TCFCU al presentarle la plataforma y decirnos que con ese proyecto esperaba que con las ideas que se compartan allí, se puedan resolver problemas para mejorar el mundo"
+    ]
+  },
+  {
+    "id": "lendingpoint-cms",
+    "name": "LendingPoint LandingPage",
+    "company": "MunayTech",
+    "role": "Full Stack Developer",
+    "description": "Management of WordPress PHP CMS platform as landing page for LendingPoint, a lending company. Configured templates, pages, images, forms, etc.",
+    "descriptionEs": "Administración de plataforma CMS creada en WordPress PHP como landing page para LendingPoint, una empresa de préstamos. Configuré templates, páginas, imágenes, formularios, etc.",
+    "technologies": [
+      "WordPress",
+      "PHP",
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "url": "https://www.lendingpoint.com/",
+    "industry": "Fintech",
+    "achievements": [
+      "Created custom plugins for implementing security systems, login, registration, etc."
+    ],
+    "achievementsEs": [
+      "Creación de plugins personalizados para la implementación de sistemas de seguridad, login, registro, etc."
+    ]
+  },
+  {
+    "id": "lendingpoint-apply",
+    "name": "LendingPoint Apply",
+    "company": "MunayTech",
+    "role": "Full Stack Developer",
+    "description": "Development of LendingPoint's main flow platform (React UI, PHP Laravel Middleware). Implemented complete system with Redux for state management, customer registration, loan offer visualization, and complete loan application flow including disbursement, using tools like PDF2Kit for contract visualization. Deployed on AWS (S3, EC2) via Bitbucket pipelines.",
+    "descriptionEs": "Desarrollo de plataforma para el flujo principal de la compañía LendingPoint (UI React, Middleware PHP Laravel). Implementé un sistema completo con tecnología Redux para el manejo de estado, registro de clientes, visualización de las ofertas disponibles de préstamos y el flujo de solicitud de préstamos hasta el desembolso, utilizando herramientas como PDF2Kit para visualización de contratos. Sistema desplegado en AWS (S3, EC2) mediante pipelines de Bitbucket.",
+    "technologies": [
+      "React",
+      "Redux",
+      "Laravel",
+      "Docker",
+      "AWS S3",
+      "AWS EC2",
+      "Bitbucket",
+      "PDF2Kit",
+      "Qualtrics",
+      "Nginx"
+    ],
+    "url": "https://customerportal.lendingpoint.com/apply",
+    "industry": "Fintech",
+    "achievements": [
+      "Implementation of components allowing customization from JSON files for better screen and LendingPoint client control",
+      "Implementation of Qualtrics for sending surveys to LendingPoint customers",
+      "Communication between React and Laravel for managing customer information and loan offers"
+    ],
+    "achievementsEs": [
+      "Implementación de componentes que permiten su customización desde archivos JSON para un mejor control de las screens y de clientes de LendingPoint",
+      "Implementación de Qualtrics para el envío de encuestas a los clientes de LendingPoint",
+      "Comunicación entre React y Laravel para el manejo de la información de los clientes y de las ofertas de préstamos"
+    ]
+  },
+  {
+    "id": "lendingpoint-continue",
+    "name": "LendingPoint Continue",
+    "company": "MunayTech",
+    "role": "Frontend Developer",
+    "description": "Maintenance of platform built with Angular and Redux for LendingPoint where users could continue with their loans. Currently disabled.",
+    "descriptionEs": "Mantenimiento de plataforma realizada en Angular y Redux, para LendingPoint donde los usuarios podían continuar con sus préstamos. Actualmente se encuentra deshabilitada.",
+    "technologies": [
+      "Angular",
+      "Redux",
+      "Docker",
+      "AWS S3",
+      "AWS EC2",
+      "Bitbucket"
+    ],
+    "url": null,
+    "industry": "Fintech",
+    "achievements": [
+      "Management of routes, components and services"
+    ],
+    "achievementsEs": [
+      "Gestión de rutas, componentes y servicios"
+    ]
+  },
+  {
+    "id": "fosil",
+    "name": "Fosil",
+    "company": "Eter Software",
+    "role": "Frontend Developer",
+    "description": "Creation of platform for managing heavy cargo vehicles and controlling preventive and corrective maintenance, as well as managing spare parts and maintenance expenses.",
+    "descriptionEs": "Creación de plataforma para la gestión de vehículos de carga pesada y control de los mantenimientos preventivos y correctivos, así como gestión de los repuestos y gastos de mantenimiento.",
+    "technologies": [
+      "Angular"
+    ],
+    "url": "https://brainloper.com/",
+    "industry": "Logistics",
+    "achievements": [
+      "Implementation of views with charts, tables and animated components for better user experience"
+    ],
+    "achievementsEs": [
+      "Implementación de vistas con gráficas, tablas y componentes animados para una mejor experiencia de usuario"
+    ]
+  },
+  {
+    "id": "pos-mobile",
+    "name": "POS Mobile",
+    "company": "Lineadatascan",
+    "role": "Mobile & Backend Developer",
+    "description": "Development of POS (Point of Sale) platform for sales management and inventory control with Java in Android Studio. The app was designed for Zebra mobile devices with barcode readers, communicated with ATH dataphones via REST API for payment processing, and used SOAP protocols for communication with CEGID backend. Bluetooth protocols for printing invoices and labels. Middleware developed in .NET (C#).",
+    "descriptionEs": "Desarrollo de plataforma POS (Point of Sale) para la gestión de ventas y control de inventario con Java en Android Studio. Esta App estaba diseñada para dispositivos móviles Zebra con lectores de códigos de barras, se comunicaba con Datafonos ATH mediante Api Rest, para la gestión de ventas, productos y clientes utilizaba protocolos SOAP para la comunicación con el backend en CEGID y mediante configuraciones de protocolos Bluetooth para la impresión de facturas y etiquetas. El Middleware fue desarrollado en .NET (C#).",
+    "technologies": [
+      "Java",
+      ".NET",
+      "C#",
+      "Android Studio",
+      "SOAP",
+      "Bluetooth"
+    ],
+    "url": null,
+    "industry": "Retail",
+    "achievements": [
+      "Application implemented nationally in chain stores like LiliPink and Tennis"
+    ],
+    "achievementsEs": [
+      "Aplicación implementada a nivel nacional en almacenes de cadena como LiliPink y Tennis"
+    ]
+  },
+  {
+    "id": "ciip",
+    "name": "CIIP",
+    "company": "Lineadatascan",
+    "role": "Mobile & Backend Developer",
+    "description": "Maintenance of application developed with Java in Android Studio. The app was designed for kiosks in chain stores like Éxito, Carulla, Adidas, etc., for product validation, prices and inventory availability. Middleware maintenance in .NET (C#).",
+    "descriptionEs": "Mantenimiento de aplicativo desarrollado en Java en Android Studio. Esta App estaba diseñada para Kioscos en almacenes de cadena como Éxito, Carulla, Adidas, etc para la validación de productos, precios y disponibilidad de inventario. Mantenimiento del middleware en .NET (C#).",
+    "technologies": [
+      "Java",
+      ".NET",
+      "C#",
+      "Android Studio",
+      "SOAP"
+    ],
+    "url": null,
+    "industry": "Retail",
+    "achievements": [
+      "Customization of the App for Adidas"
+    ],
+    "achievementsEs": [
+      "Personalización de la App para Adidas"
+    ]
+  }
+]

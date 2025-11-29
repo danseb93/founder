@@ -1,0 +1,54 @@
+{
+    "hero": {
+        "greeting": "HOLA MUNDO, SOY",
+        "title": "DANIEL RINCÓN",
+        "subtitle": "Desarrollador Full Stack",
+        "subtitleSuffix": "y Arquitecto",
+        "description": "Transformando problemas complejos en soluciones elegantes y escalables. Desde la electrónica hasta la arquitectura de alto nivel, construyo el futuro digital.",
+        "downloadCV": "Descargar CV",
+        "contactMe": "Contáctame"
+    },
+    "timeline": {
+        "title": "Experiencia Profesional",
+        "more": "más"
+    },
+    "techStack": {
+        "title": "Arsenal Tecnológico",
+        "frontend": "Frontend",
+        "backend": "Backend",
+        "database": "Base de Datos",
+        "devops": "DevOps",
+        "soft": "Habilidades Blandas"
+    },
+    "projects": {
+        "title": "Universo de Proyectos",
+        "subtitle": "Explora los territorios que he conquistado a través de diferentes industrias.",
+        "all": "Todos",
+        "viewProject": "Ver Proyecto"
+    },
+    "nahomi": {
+        "title": "Mi Mayor Motivación",
+        "quote": "Anhelo ver su sonrisa cada dia, por lo que mis esfuerzos estan enfocados en ofrecerle una vida grata, tranquila y feliz. Cada paso que doy en mi carrera profesional es con la intención de construir un futuro sólido para nosotros.",
+        "dedication": "Para Nahomi"
+    },
+    "contact": {
+        "title": "Ponte en Contacto",
+        "subtitle": "Conectemos",
+        "description": "¡No dudes en contactarme para colaboraciones o simplemente para saludar!",
+        "name": "Nombre",
+        "email": "Correo Electrónico",
+        "message": "Mensaje",
+        "send": "Enviar Mensaje",
+        "sending": "Enviando...",
+        "successTitle": "¡Mensaje Enviado!",
+        "successMessage": "¡Gracias por contactarme!",
+        "successSubtext": "Te responderé lo antes posible.",
+        "footer": "Todos los derechos reservados.",
+        "footerBuilt": "Construido con React, Vite & Pasión."
+    },
+    "modal": {
+        "description": "Descripción",
+        "achievements": "Logros Clave y Responsabilidades",
+        "techStack": "Stack Tecnológico"
+    }
+}
