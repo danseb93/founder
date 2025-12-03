@@ -1,11 +1,24 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { useTranslation } from 'react-i18next';
 import Button from './Button';
 import heroImage from '../assets/heroImage.png';
 import heroTree from '../assets/heroTree.png';
 
 const Hero: React.FC = () => {
-    const { t } = useTranslation();
+    const { t, i18n } = useTranslation();
+
+    // Function to download CV based on current language
+    const downloadCV = () => {
+        const filename = i18n.language === 'es' 
+            ? 'CV-Daniel-Rincon-ES.pdf'
+            : 'CV-Daniel-Rincon-EN.pdf';
+        
+        // Start download
+        const link = document.createElement('a');
+        link.href = `/cv/${filename}`;
+        link.download = filename;
+        link.click();
+    };
 
     return (
         <section className="min-h-screen flex items-center justify-center relative overflow-hidden pt-20">
@@ -57,11 +70,9 @@ const Hero: React.FC = () => {
                 </p>
 
                 <div className="flex flex-col md:flex-row gap-4 justify-center items-center animate-fade-in" style={{ animationDelay: '1s' }}>
-                    <a href="/CV Daniel Rincon.pdf" download>
-                        <Button variant="primary" size="lg">
-                            {t('hero.downloadCV')}
-                        </Button>
-                    </a>
+                    <Button variant="primary" size="lg" onClick={downloadCV}>
+                        {t('hero.downloadCV')}
+                    </Button>
                     <Button variant="outline" size="lg" onClick={() => document.getElementById('contact')?.scrollIntoView({ behavior: 'smooth' })}>
                         {t('hero.contactMe')}
                     </Button>
