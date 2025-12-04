@@ -28,14 +28,14 @@ const Hero: React.FC = () => {
                 <div className="absolute bottom-1/4 right-1/4 w-96 h-96 bg-accent-cyan/20 rounded-full blur-[100px] animate-pulse" style={{ animationDelay: '1s' }}></div>
             </div>
 
-            {/* Image Section (Absolute Left) */}
-            <div className="absolute bottom-0 left-0 z-0 hidden lg:block h-[90vh]">
+            {/* Image Section (Responsive positioning) */}
+            <div className="absolute bottom-0 left-0 z-0 h-[60vh] sm:h-[70vh] md:h-[80vh] lg:h-[90vh]">
                 <div className="relative h-full">
                     <div className="absolute inset-0 bg-gradient-to-r from-transparent via-transparent to-background/20 z-10"></div>
                     <img
                         src={heroImage}
                         alt="Daniel Rincón"
-                        className="h-full w-auto object-contain object-bottom mask-image-gradient opacity-90"
+                        className="h-full w-auto object-contain object-bottom mask-image-gradient opacity-45 sm:opacity-70 md:opacity-80 lg:opacity-90"
                     />
                 </div>
             </div>
