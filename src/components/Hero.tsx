@@ -5,9 +5,10 @@ import heroImage from '../assets/heroImage.png';
 import heroTree from '../assets/heroTree.png';
 
 const Hero: React.FC = () => {
-    const { t, i18n } = useTranslation();
+    const { t } = useTranslation();
 
     // Function to download CV based on current language
+    /*
     const downloadCV = () => {
         const filename = i18n.language === 'es' 
             ? 'CV-Daniel-Rincon-ES.pdf'
@@ -19,6 +20,7 @@ const Hero: React.FC = () => {
         link.download = filename;
         link.click();
     };
+    */
 
     return (
         <section className="min-h-screen flex items-center justify-center relative overflow-hidden pt-20">
