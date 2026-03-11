@@ -70,13 +70,13 @@ const Hero: React.FC = () => {
                 </p>
 
                 <div className="flex flex-col md:flex-row gap-4 justify-center items-center animate-fade-in" style={{ animationDelay: '1s' }}>
-                    <Button variant="primary" size="lg" onClick={downloadCV}>
+                   {/*  <Button variant="primary" size="lg" onClick={downloadCV}>
                         {t('hero.downloadCV')}
-                    </Button>
+                    </Button>*/}
                     <Button variant="outline" size="lg" onClick={() => document.getElementById('contact')?.scrollIntoView({ behavior: 'smooth' })}>
                         {t('hero.contactMe')}
                     </Button>
-                </div>
+                </div> 
             </div>
 
             {/* Scroll Indicator */}

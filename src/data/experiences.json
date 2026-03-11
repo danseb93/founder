@@ -11,6 +11,7 @@
         "technologies": [
             "NestJS",
             "Vue.js",
+            "React",
             "MongoDB",
             "Docker",
             "SOAP/REST",
@@ -20,6 +21,7 @@
         ],
         "details": [
             "Designed and implemented a critical integration system for Puerto Antioquia (Puerto Nacional de Colombia).",
+            "Developed interactive dashboards in React for real-time logistics monitoring, optimizing the operational visibility of critical port processes.",
             "Implemented multi-protocol communication (FTP, SOAP, RESTful APIs) to connect national entities with the port's central infrastructure trought NestJS.",
             "Developed a responsive frontend in Vue.js with advanced visualization dashboards and detailed event logging.",
             "Designed a MongoDB database schema optimized for high-volume maritime operations.",
@@ -27,6 +29,7 @@
         ],
         "detailsEs": [
             "Diseñé e implementé un sistema de integración crítico para Puerto Antioquia (Puerto Nacional de Colombia).",
+            "Desarrollé dashboards interactivos en React para monitoreo logístico en tiempo real, optimizando la visibilidad operativa de procesos portuarios críticos.",
             "Implementé comunicación multi-protocolo (FTP, SOAP, RESTful APIs) para conectar entidades nacionales con la infraestructura central del puerto via NestJS.",
             "Desarrollé un frontend responsivo en Vue.js con dashboards de visualización avanzados y registro de eventos detallado.",
             "Diseñé un esquema de base de datos MongoDB optimizado para operaciones marítimas de alto volumen.",
